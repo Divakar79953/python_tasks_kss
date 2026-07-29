@@ -1,0 +1,10 @@
+#Student Attendence Record
+name=input("Enter student name:")
+file=open("attendence.txt","a")
+file.write(name+"\n")
+file.close()
+file=open("attendence.txt","r")
+data=file.read()
+print("\nAttendence Record:")
+print(data)
+file.close()

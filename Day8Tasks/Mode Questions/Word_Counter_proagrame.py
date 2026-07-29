@@ -1,0 +1,10 @@
+# Word Counter Programe
+file=open("article.txt","r")
+data=file.read()
+words=len(data.split())
+lines=len(data.split("\n"))
+characters=len(data)
+print("Number of Words:",words)
+print("Number of lines:",lines)
+print("Number of Characters:",characters)
+file.close()
