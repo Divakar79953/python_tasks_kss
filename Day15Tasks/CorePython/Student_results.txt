@@ -1,0 +1,6 @@
+Student Data:
+{'D': 94, 'I': 93, 'V': 78, 'A': 57, 'K': 79, 'R': 89}
+Students Above 50:
+['D', 'I', 'V', 'A', 'K', 'R']
+Average Marks:
+81.66666666666667
