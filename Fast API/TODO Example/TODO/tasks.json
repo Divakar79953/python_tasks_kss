@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "Learn FastAPI",
+        "status": "started"
+    },
+    {
+        "id": 2,
+        "task": "Create TODO API",
+        "status": "InProgress"
+    },
+    {
+        "id": 4,
+        "title": "TODO",
+        "status": "Completed"
+    }
+]
